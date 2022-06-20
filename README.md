@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">Enthusiastic and curious about technology, start-ups and business strategy, I have acquired through consulting a broad scope of business competences and soft skills
+<h3 align="center">Enthusiastic and curious about technology, start-ups and business strategy, I have acquired through consulting a broad scope of business competences and soft skills.
+  
 Looking for opportunities in the tech sector, I also took into my hands to work on my tech hard skills learning code and associated technologies
 </h3>
 
