@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 
 
-- 📫 How to reach me **brotonsc@umich.com**
+- 📫 How to reach me **brotonsc@umich.edu**
 - 🚌 Le Wagon Web developpement and Data Science alumni
 
 <h3 align="left">Languages and Tools:</h3>
